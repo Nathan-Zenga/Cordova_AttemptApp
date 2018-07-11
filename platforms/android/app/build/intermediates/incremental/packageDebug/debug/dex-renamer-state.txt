@@ -1,0 +1,4 @@
+#Mon Jul 02 15:22:02 BST 2018
+base.0=H\:\\cov\\year 3\\Individual Project\\1 repos\\Cordova attempt\\projectApp\\platforms\\android\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+renamed.0=classes.dex
+file.0=H\:\\cov\\year 3\\Individual Project\\1 repos\\Cordova attempt\\projectApp\\platforms\\android\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0\\classes.dex
